@@ -1,5 +1,32 @@
 # Section 1: The "Who" (Demographics & Loyalty)
 1 Age Group Analysis: Which age brackets (e.g., 18-25, 26-40, etc.) purchase the most items?
+| Age Group | Total Orders | Total Revenue (USD) | Avg Spent per Order (USD) |
+|-----------|-------------|--------------------|---------------------------|
+| 55+ (Senior) | 29000 | 1707303 | 58.87 |
+| 25-34 (Millennial) | 19433 | 1156163 | 59.49 |
+| 45-54 (Gen Boomer) | 19253 | 1143558 | 59.40 |
+| 35-44 (Gen X) | 19139 | 1139359 | 59.53 |
+| 18-24 (Gen Z) | 13175 | 789684 | 59.94 |
+
+**insight** 
+### 1. Senior customers drive the highest total demand.
+- The 55+ age group generated 29,000 orders, significantly higher than any other segment, contributing over $1.7M in revenue, making them the most influential group in overall sales volume
+### 2. Spending behavior is remarkably consistent across generations
+- The average order value remains tightly clustered around $59 across all age groups, indicating purchasing power per transaction is relatively uniform regardless of age.
+### 3. Younger consumers place fewer orders but spend slightly more per purchase.
+- The 18–24 (Gen Z) segment has the highest average spend per order ($59.94), suggesting younger customers may buy less frequently but tend to spend slightly more when they do.
+
+   **Business Recommendations**
+1. Prioritize retention strategies for senior customers.
+Since the 55+ segment generates the highest number of orders and the largest revenue share, targeted loyalty programs, personalized promotions, and email campaigns could help maintain and further grow this high-value customer group.
+
+3. Encourage higher purchase frequency among Gen Z customers.
+Although 18–24 customers have the highest average spend per order, they place fewer orders overall. Offering incentives such as student discounts, limited-time promotions, or social media campaigns could increase their purchasing frequency.
+
+4. Maintain engagement with the middle-age customer base (25–54).
+Millennials, Gen X, and the 45–54 group generate stable and balanced revenue streams, making them the core revenue drivers. Businesses should focus on consistent product offerings, personalized recommendations, and loyalty rewards to sustain this reliable segment.
+
+
 2 Gender Split: What is the percentage of total purchases made by Male vs. Female customers?
 3 Location Heatmap: Which Location (State) has the highest concentration of customers?
 4 Loyalty Benchmarking: Based on Previous_Purchases, who are the most loyal customers (top 5% or 10%)?
