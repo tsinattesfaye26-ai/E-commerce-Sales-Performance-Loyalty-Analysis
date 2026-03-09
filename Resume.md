@@ -135,8 +135,71 @@ The stable transaction values across states suggest that the current pricing mod
 
 
 ### 4 Loyalty Benchmarking: Based on Previous_Purchases, who are the most loyal customers (top 5% or 10%)?
+| Customer ID | Previous Purchases | Purchase Amount (USD) | Loyalty Rank |
+|-------------|-------------------|-----------------------|--------------|
+| 2356 | 49 | 93 | Top 5% (Platinum) |
+| 1693 | 49 | 49 | Top 5% (Platinum) |
+| 625 | 49 | 65 | Top 5% (Platinum) |
+| 3485 | 49 | 38 | Top 5% (Platinum) |
+| 1946 | 49 | 80 | Top 5% (Platinum) |
+| 2156 | 49 | 23 | Top 5% (Platinum) |
+| 1307 | 49 | 64 | Top 5% (Platinum) |
+| 3605 | 49 | 67 | Top 5% (Platinum) |
+| 2690 | 49 | 91 | Top 5% (Platinum) |
+| 2860 | 49 | 63 | Top 5% (Platinum) |
+
+**Insights**
+1. The most loyal customers demonstrate extremely high purchase frequency.
+All customers in the Top 5% loyalty segment have completed 49 previous purchases, indicating that loyalty is strongly tied to repeated buying behavior rather than just spending amount.
+
+2. Spending varies widely even among the most loyal customers.
+Purchase values range from $23 to $93, showing that loyalty does not necessarily correlate with high transaction size, but rather with consistent engagement.
+
+3. High-frequency customers represent a strategic revenue backbone.
+Even if individual transaction amounts vary, customers with dozens of repeat purchases contribute significantly to lifetime value (LTV).
+
+4. Loyalty segmentation enables targeted premium programs.
+Labeling these users as “Platinum” customers creates an opportunity for exclusive benefits that reinforce long-term retention.
+
+**Recommendations**
+
+1. Create a dedicated Platinum loyalty program.
+Offer benefits such as early product access, exclusive discounts, or reward points multipliers to maintain engagement among top customers.
+
+2. Focus on lifetime value rather than single transaction value.
+Since loyal customers may spend small amounts but buy frequently, strategies should prioritize repeat purchase incentives.
+
+3. Implement personalized marketing campaigns.
+Using customer purchase history, businesses can recommend products, offer tailored promotions, and strengthen brand loyalty.
 
 ### 5 Subscription Status: What percentage of total customers are currently "Subscribers" vs. "Non-Subscribers"?
+
+| Subscription Status | Total Customers | Percentage (%) |
+|---------------------|----------------|----------------|
+| No | 73010 | 73.01 |
+| Yes | 26990 | 26.99 |
+
+**Insights**
+1. The majority of customers are not subscribed.
+Approximately 73% of customers are non-subscribers, indicating that the subscription program currently captures only a minority of the customer base.
+
+2. Significant growth opportunity exists for subscription conversion.
+With over two-thirds of customers outside the subscription program, even a small increase in conversion could generate substantial recurring revenue.
+
+3. Subscribers represent a highly valuable recurring revenue segment.
+Although only 26.99% of customers, subscribers likely contribute to more predictable revenue streams and higher customer lifetime value.
+
+**Recommendations**
+1. Introduce incentives to increase subscription adoption.
+Offer discounts, free shipping, exclusive content, or reward points to encourage non-subscribers to join the program.
+
+2. Promote the subscription model during checkout.
+Highlight cost savings or convenience benefits at key customer touchpoints such as checkout pages or post-purchase emails.
+
+3. Use loyalty customers as early subscription targets.
+High-frequency buyers (like the Top 5% loyal customers) are the most likely to convert into subscribers, making them ideal targets for subscription offers.
+
+
 
 # Section 2: The "What" (Product & Visual Trends)
 ### 6 Category Revenue: Which Category (Clothing, Accessories, etc.) generates the highest total income?
