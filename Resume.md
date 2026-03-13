@@ -203,10 +203,65 @@ High-frequency buyers (like the Top 5% loyal customers) are the most likely to c
 
 # Section 2: The "What" (Product & Visual Trends)
 ### 6 Category Revenue: Which Category (Clothing, Accessories, etc.) generates the highest total income?
+| Category | Total Items Sold | Total Revenue | Avg Item Price | Revenue Contribution (%) |
+|----------|-----------------|--------------|---------------|--------------------------|
+| Clothing | 44740 | 2654791 | 59.34 | 44.72 |
+| Accessories | 31627 | 1876148 | 59.32 | 31.61 |
+| Footwear | 15326 | 910840 | 59.43 | 15.34 |
+| Outerwear | 8307 | 494288 | 59.50 | 8.33 |
+
+**Insights**
+1. Clothing is the dominant revenue driver.
+The Clothing category generates $2.65M in revenue, contributing 44.72% of total income, making it the most significant product category in the dataset.
+
+2. Accessories represent a strong secondary revenue stream.
+With 31.61% of total revenue and over 31,000 items sold, accessories form the second-largest income source, indicating strong cross-selling potential with clothing products.
+
+3. Pricing consistency across categories suggests standardized pricing strategy.
+All categories have an average item price around $59, meaning revenue differences are primarily driven by sales volume rather than price differences.
+
+**Business Recommendations**
+
+1. Prioritize clothing inventory and marketing.
+Since clothing generates nearly half of total revenue, ensuring strong product variety, stock availability, and targeted promotions in this category should remain a key business focus.
+
+2. Leverage accessories for cross-selling opportunities.
+Accessories can be effectively bundled with clothing purchases (e.g., outfit combinations or style bundles) to increase average order value.
+
+3. Expand the footwear category strategically.
+Footwear already contributes over 15% of revenue, indicating that increasing product variety or launching targeted campaigns could significantly grow this segment.
 
 ### 7 Item Popularity: Within each category, which specific Item_Purchased is the #1 bestseller?
+| Category | Item Purchased | Total Sold |
+|----------|---------------|------------|
+| Accessories | Jewelry | 1420 |
+| Clothing | Blouse | 2063 |
+| Footwear | Shirt | 710 |
+| Outerwear | Dress | 370 |
+
+**Insights** 
+1. Blouses dominate clothing sales.
+Within the clothing category, Blouses are the top-selling item with 2,063 units sold, indicating strong demand and making them the most important product driver in this category.
+
+2. Jewelry leads the accessories market.
+Jewelry recorded 1,420 units sold, significantly outperforming other accessory items, suggesting that it plays a major role in the category’s overall revenue contribution.
+
+3. Sales volume varies significantly across categories.
+The top item in Clothing (2,063 sales) sells nearly three times more than the top item in Footwear (710 sales), highlighting differences in category demand levels.
+
+**Business Recommendations**
+
+1. Prioritize inventory for top-selling items.
+Products like Blouses and Jewelry should receive priority in stock management and supply chain planning to avoid stockouts and lost sales.
+
+2. Use bestsellers to drive marketing campaigns.
+Highlighting popular items such as Blouses and Jewelry in promotions, homepage features, and advertisements can increase conversion rates.
+
+3. Bundle bestsellers with other products.
+Retailers can increase average order value by bundling popular items with complementary products (e.g., jewelry with clothing outfits).
 
 ### 8 Size Popularity: Which Size (S, M, L, XL) is the most frequently ordered across all categories?
+
 
 ### 9 Color Preferences: Which specific Color is most "in demand" by customers?
 
