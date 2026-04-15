@@ -270,10 +270,52 @@ Retailers can increase average order value by bundling popular items with comple
 | XL   | 11010       | 11.01%              |
 
 **Insights**
+ - Size M dominates orders, making up nearly half (44.96%) of all purchases.
+- There is a clear drop from M to L, showing demand is strongly centered around medium sizes.
+- Size XL has the lowest demand, indicating limited preference for larger sizes.
 **Business Recommendations**
+ -  Stock more M sizes to avoid shortages and maximize sales.
+- Adjust inventory balance — reduce XL stock and slightly optimize S and L.
+- Analyze customer segments to understand why M is dominant (e.g., demographics or product fit) and use that for future product planning.
+  
 ### 9 Color Preferences: Which specific Color is most "in demand" by customers?
+| Color     | Total_Orders | Percentage_of_Total |
+|-----------|-------------|---------------------|
+| Olive     | 4595        | 4.60%               |
+| Yellow    | 4483        | 4.48%               |
+| Teal      | 4437        | 4.44%               |
+| Black     | 4316        | 4.32%               |
+| Silver    | 4313        | 4.31%               |
+| Violet    | 4310        | 4.31%               |
+| Cyan      | 4309        | 4.31%               |
+| Green     | 4275        | 4.28%               |
+| Gray      | 4116        | 4.12%               |
+| Maroon    | 4081        | 4.08%               |
+| Charcoal  | 4010        | 4.01%               |
+| Orange    | 3962        | 3.96%               |
+| Purple    | 3953        | 3.95%               |
+| Pink      | 3951        | 3.95%               |
+| Blue      | 3854        | 3.85%               |
+| Magenta   | 3849        | 3.85%               |
+| Lavender  | 3825        | 3.83%               |
+| Red       | 3797        | 3.80%               |
+| Beige     | 3779        | 3.78%               |
+| Indigo    | 3744        | 3.74%               |
+| Peach     | 3714        | 3.71%               |
+| Turquoise | 3682        | 3.68%               |
+| Brown     | 3641        | 3.64%               |
+| White     | 3536        | 3.54%               |
+| Gold      | 3468        | 3.47%               |
+
 **Insights**
+- Olive is the most in-demand color, but only slightly (4.60%), meaning no single color dominates strongly.
+- Demand is very evenly distributed across colors (most between ~3.5%–4.6%).
+- Even traditionally popular colors like Black, Blue, and White are not leading, suggesting customers prefer variety over basics.
+
 **Business Recommendations**
+  -  Maintain a wide color variety — don’t over-focus on just one or two colors.
+- Slightly prioritize top performers like Olive, Yellow, and Teal in inventory and promotions.
+- Test bundles or personalization (e.g., “choose your color”) since customer preferences are diverse rather than concentrated.
 ### 10 Seasonal Trends: Which Season (Winter, Summer, Fall, Spring) sees the highest volume of sales?
 
 
