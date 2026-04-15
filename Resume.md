@@ -262,27 +262,45 @@ Retailers can increase average order value by bundling popular items with comple
 
 ### 8 Size Popularity: Which Size (S, M, L, XL) is the most frequently ordered across all categories?
 
+| Size | Total_Orders | Percentage_of_Total |
+|------|-------------|---------------------|
+| M    | 44958       | 44.96%              |
+| L    | 26966       | 26.97%              |
+| S    | 17066       | 17.07%              |
+| XL   | 11010       | 11.01%              |
 
+**Insights**
+**Business Recommendations**
 ### 9 Color Preferences: Which specific Color is most "in demand" by customers?
-
+**Insights**
+**Business Recommendations**
 ### 10 Seasonal Trends: Which Season (Winter, Summer, Fall, Spring) sees the highest volume of sales?
 
 
 # Section 3: The "How" (Logistics & Payments)
 
 ### 11 Shipping Preferences: What is the most popular Shipping_Type (Free Shipping, Express, Store Pickup)
-
+**Insights**
+**Business Recommendations**
 ### 12 Payment Methods: Which Payment_Method (Bank Transfer, Credit Card, etc.) is used most often?
-
+**Insights**
+**Business Recommendations**
 ### 13 Purchase Frequency: Based on the Frequency_of_Purchases column, how often do customers typically return (Monthly, Quarterly, Annually)?
-
+**Insights**
+**Business Recommendations**
 # Section 4: The "Why" (Business Insights & Profits)
 ### 14 Review Ratings: What is the average Review_Rating for each Category? (Finding the "Best" and "Worst" rated products).
-
+**Insights**
+**Business Recommendations**
 ### 15 Promo Code Impact: Does using a Promo_Code_Used actually lead to a higher Purchase_Amount_USD per transaction?
-
+**Insights**
+**Business Recommendations**
 ### 16 The Subscriber Gap: Do Subscribers actually spend more on average than Non-Subscribers?
-
+**Insights**
+**Business Recommendations**
 ### 17 Shipping vs. Loyalty: Do customers who use "Free Shipping" have a higher number of Previous_Purchases than those who don't?
-
+**Insights**
+**Business Recommendations**
 ### 18 Discount Revenue: What percentage of total revenue comes from transactions where a Discount_Applied was "Yes"?
+**Insights**
+**Business Recommendations**
