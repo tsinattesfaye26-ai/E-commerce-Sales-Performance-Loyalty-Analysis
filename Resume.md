@@ -8,7 +8,7 @@
 | 35-44 (Gen X) | 19139 | 1139359 | 59.53 |
 | 18-24 (Gen Z) | 13175 | 789684 | 59.94 |
 
-**insight** 
+**Insight** 
 1. Senior customers drive the highest total demand.
 - The 55+ age group generated 29,000 orders, significantly higher than any other segment, contributing over $1.7M in revenue, making them the most influential group in overall sales volume
  2. Spending behavior is remarkably consistent across generations
@@ -16,7 +16,7 @@
  3. Younger consumers place fewer orders but spend slightly more per purchase.
 - The 18–24 (Gen Z) segment has the highest average spend per order ($59.94), suggesting younger customers may buy less frequently but tend to spend slightly more when they do.
 
-   **Business Recommendations**
+**Business Recommendations**
 1. Prioritize retention strategies for senior customers.
 Since the 55+ segment generates the highest number of orders and the largest revenue share, targeted loyalty programs, personalized promotions, and email campaigns could help maintain and further grow this high-value customer group.
 
