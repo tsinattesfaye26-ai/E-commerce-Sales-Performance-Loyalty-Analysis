@@ -322,27 +322,131 @@ Retailers can increase average order value by bundling popular items with comple
 # Section 3: The "How" (Logistics & Payments)
 
 ### 11 Shipping Preferences: What is the most popular Shipping_Type (Free Shipping, Express, Store Pickup)
+| Shipping_Type  | Total_Usage |
+|----------------|-------------|
+| Free Shipping  | 17540       |
+| Standard       | 16797       |
+| Express        | 16525       |
+| Store Pickup   | 16477       |
+| Next Day Air   | 16392       |
+| 2-Day Shipping | 16269       |
+
 **Insights**
+- Free Shipping is the most popular option, indicating customers are highly price-sensitive.
+- Usage across all shipping types is very close, showing no extreme preference — customers value flexibility.
+- Faster options (Express, Next Day Air) are not significantly higher, meaning speed is less important than cost for most users.
 **Business Recommendations**
+  - Promote Free Shipping more aggressively (e.g., “Free shipping over X amount”) to increase conversions.
+- Offer clear choices at checkout since customers have varied preferences.
+- Optimize logistics costs — since demand is spread out, balance pricing and efficiency across all shipping options.
 ### 12 Payment Methods: Which Payment_Method (Bank Transfer, Credit Card, etc.) is used most often?
+| Payment_Method | Usage_Count |
+|----------------|-------------|
+| PayPal         | 17524       |
+| Credit Card    | 17100       |
+| Cash           | 16918       |
+| Debit Card     | 16388       |
+| Venmo          | 16318       |
+| Bank Transfer  | 15752       |
+
 **Insights**
+- PayPal is the most used payment method, but only slightly ahead of others.
+- Payment usage is fairly balanced, with no method dominating strongly.
+- Cash is still highly used, showing that traditional payment methods remain important alongside digital ones
 **Business Recommendations**
+ -  Keep multiple payment options available — customers clearly value flexibility.
+- Optimize PayPal and Credit Card checkout experience since they lead usage.
+- Do not remove Cash or Bank Transfer, as they still represent a significant portion of users.
 ### 13 Purchase Frequency: Based on the Frequency_of_Purchases column, how often do customers typically return (Monthly, Quarterly, Annually)?
+| Frequency_of_Purchases | Total_Customers | Percentage |
+|------------------------|----------------|------------|
+| Every 3 Months         | 15168          | 15.17%     |
+| Annually               | 14769          | 14.77%     |
+| Quarterly              | 14383          | 14.38%     |
+| Bi-Weekly              | 14198          | 14.20%     |
+| Monthly                | 13949          | 13.95%     |
+| Weekly                 | 13842          | 13.84%     |
+| Fortnightly            | 13691          | 13.69%     |
+
 **Insights**
+- No single purchase frequency dominates — all segments are very close (~13–15%).
+- Slightly more customers prefer less frequent purchasing (Every 3 Months, Annually).
+- There is a balanced mix of frequent and infrequent buyers, indicating diverse shopping behaviors.
 **Business Recommendations**
+ - Segment customers by frequency and personalize marketing (e.g., offers for weekly vs. annual buyers).
+- Encourage more frequent purchases with subscriptions, discounts, or loyalty programs.
+- Retain infrequent buyers with reminders, seasonal promotions, or re-engagement campaigns.
 # Section 4: The "Why" (Business Insights & Profits)
 ### 14 Review Ratings: What is the average Review_Rating for each Category? (Finding the "Best" and "Worst" rated products).
+| Category    | Average_Rating | Total_Reviews |
+|-------------|----------------|---------------|
+| Outerwear   | 3.81           | 8307          |
+| Accessories | 3.80           | 31627         |
+| Clothing    | 3.80           | 44740         |
+| Footwear    | 3.80           | 15326         |
+
 **Insights**
+- Ratings are almost identical across all categories (~3.8), indicating consistent customer satisfaction.
+- Clothing has the highest number of reviews, meaning it’s the most purchased or most engaged category.
+- Outerwear has slightly higher ratings but fewer reviews, suggesting niche but satisfied customers
 **Business Recommendations**
+- Investigate how to improve ratings above 4.0, since all categories are currently average.
+- Leverage Clothing category traffic to cross-sell other categories like Accessories and Footwear.
+- Expand Outerwear offerings carefully, as it shows strong satisfaction despite lower volume.  
 ### 15 Promo Code Impact: Does using a Promo_Code_Used actually lead to a higher Purchase_Amount_USD per transaction?
+| Promo_Code_Used | Transaction_Count | Avg_Transaction_Value | Total_Revenue |
+|------------------|------------------|------------------------|----------------|
+| No               | 56987            | 59.34                  | 3381797        |
+| Yes              | 43013            | 59.38                  | 2554270        |
+
 **Insights**
+- Customers without promo codes generate more total revenue, mainly because they have more transactions.
+- Average transaction value is almost identical between promo and non-promo users (~59.3), meaning promos don’t increase basket size.
+- Promo users contribute less revenue overall, suggesting discounts may reduce profitability without boosting spending.
 **Business Recommendations**
+- Re-evaluate promo strategy — since discounts are not increasing spending per transaction.
+- Focus promos on driving volume or retention, not just short-term purchases.
+- Test targeted promotions instead of broad discounts (e.g., high-value customers or low-frequency buyers).
 ### 16 The Subscriber Gap: Do Subscribers actually spend more on average than Non-Subscribers?
+| Subscription_Status | Total_Customers | Avg_Spent_Per_Order | Total_Revenue_Contribution |
+|---------------------|------------------|----------------------|------------------------------|
+| No                  | 73010            | 59.42                | 4338552                      |
+| Yes                 | 26990            | 59.19                | 1597515                      |
+
 **Insights**
+- Non-subscribed customers generate most of the revenue, mainly due to their larger population size.
+- Average spending per order is almost identical between subscribers and non-subscribers (~59.2), meaning subscription does not increase order value.
+- Subscriptions are not currently driving higher revenue efficiency, suggesting weak value perception or benefits.
 **Business Recommendations**
+  -  Improve subscription value proposition (exclusive discounts, perks, faster delivery, rewards).
+- Focus on converting high-frequency non-subscribers into subscribers to increase long-term retention.
+- Test subscription pricing/benefits, since current structure is not increasing spend per order or overall revenue impact.
 ### 17 Shipping vs. Loyalty: Do customers who use "Free Shipping" have a higher number of Previous_Purchases than those who don't?
+| Shipping_Type  | Customer_Count | Avg_Past_Purchases |
+|----------------|---------------|---------------------|
+| Next Day Air   | 16392         | 25.1                |
+| Standard       | 16797         | 25.0                |
+| Express        | 16525         | 25.0                |
+| Free Shipping  | 17540         | 24.9                |
+
 **Insights**
+- Free Shipping has the highest customer count, confirming it is the most attractive shipping option.
+- Average past purchases are almost identical across all shipping types (~25), meaning shipping type does not strongly influence customer loyalty.
+- There is no meaningful behavioral difference between fast and standard shipping users in terms of purchase frequency.
 **Business Recommendations**
+- Promote Free Shipping strategically (e.g., minimum spend thresholds) since it drives the highest usage.
+- Don’t over-invest in premium shipping segmentation, because customer behavior is nearly identical.
+- Focus on other loyalty drivers (discounts, subscriptions, personalization) since shipping type is not influencing repeat purchases.
 ### 18 Discount Revenue: What percentage of total revenue comes from transactions where a Discount_Applied was "Yes"?
+| Discounted_Revenue | Total_Revenue | Discount_Revenue_Percentage |
+|--------------------|--------------|------------------------------|
+| 2551404            | 5936067      | 42.98%                       |
+
 **Insights**
+- Nearly 43% of total revenue comes from discounted sales, which is a very high dependency on promotions.
+- Discounts are contributing a large share of revenue, but may be reducing overall profit margins.
+- The business is likely promotion-driven rather than full-price driven, indicating strong price sensitivity among customers.
 **Business Recommendations**
+- Reduce over-reliance on discounts by improving product value perception and branding.
+- Target discounts more strategically (e.g., new customers, slow-moving products, or seasonal campaigns).
+- Test pricing optimization strategies (A/B testing) to see if revenue can be maintained with fewer discounts.
